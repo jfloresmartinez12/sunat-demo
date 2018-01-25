@@ -139,7 +139,7 @@
 											id="ext-gen1043"
 											style="width: 302px; left: 0px; top: 0px; height: 118px;">
 											<div class="logo_minsa" id="ext-gen1542">
-												<img src="./MINSA _ CITAS EN LINEA_files/logo_minsa.png">
+												<img src="./MINSA _ CITAS EN LINEA_files/logo_sunat.png">
 											</div>
 										</div>
 									</div>
